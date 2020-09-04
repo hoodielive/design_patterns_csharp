@@ -12,14 +12,14 @@ No, its a blueprint for a solution.
 	* Write Understandable, testable and maintainable solutions. 
 
 # Design Pattern Categories
-	* Creational Patterns
+	* Creational Patterns (Object creation mechanisms)
 		* Abstract Factory
 		* Builder
 		* Factory Method
 		* Object Pool
 		* Prototype 
 		* Singleton
-	* Structural 
+	* Structural (Class and Object composition)
 		* Adapter 
 		* Bridge
 		* Composite
@@ -27,7 +27,7 @@ No, its a blueprint for a solution.
 		* Facade
 		* Flyweight
 		* Proxy
-	* Behavorial
+	* Behavorial (Object communication)
 		* Chain of Responsibility 
 		* Command
 		* Interpreter

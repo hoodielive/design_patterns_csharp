@@ -1,2 +1,15 @@
-# design_patterns_csharp
-I think its time to explore this design patterns nonsense. Everywhere I turn there is mention of design patterns - both anti and supported. I will be exploring these design patterns in C#.
+# What is a design pattern? 
+
+Its a general reusuable solution to a commonly occuring software problem.
+
+Is it a standard specification?
+
+No, its a blueprint for a solution. 
+
+## Benefits: 
+	* Produce high-level solutions.
+	* Ignore implmentation details.
+	* Write Understandable, testable and maintainable solutions. 
+
+
+
